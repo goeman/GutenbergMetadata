@@ -1,0 +1,27 @@
+{
+  "name": "metadata-coding-challenge",
+  "version": "1.0.0",
+  "description": "A sample project for Bibliotech",
+  "main": "app.js",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "mongoose": "^5.3.15",
+    "nested-property": "^0.0.7",
+    "xml2js": "^0.4.19",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biblio-tech/metadata-coding-challenge.git"
+  },
+  "author": "Joe Goeman",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/biblio-tech/metadata-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/biblio-tech/metadata-coding-challenge#readme"
+}
